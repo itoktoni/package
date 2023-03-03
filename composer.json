@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Itoktoni\\Admin\\Providers\\AdminServiceProvider"
+                "Itoktoni\\Admin\\AdminServiceProvider"
             ]
         }
     }
