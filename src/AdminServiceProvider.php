@@ -1,6 +1,6 @@
 <?php
 
-namespace Itoktoni\Admin\Providers;
+namespace Itoktoni\Admin;
 
 use Illuminate\Support\ServiceProvider;
 
